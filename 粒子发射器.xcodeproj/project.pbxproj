@@ -15,6 +15,8 @@
 		473363991CBB6999005C968F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 473363971CBB6999005C968F /* LaunchScreen.storyboard */; };
 		473363A41CBB6999005C968F /* _____Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 473363A31CBB6999005C968F /* _____Tests.m */; };
 		473363AF1CBB6999005C968F /* _____UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 473363AE1CBB6999005C968F /* _____UITests.m */; };
+		473363BE1CBB69A4005C968F /* 星星.png in Resources */ = {isa = PBXBuildFile; fileRef = 473363BC1CBB69A4005C968F /* 星星.png */; };
+		473363BF1CBB69A4005C968F /* 点.png in Resources */ = {isa = PBXBuildFile; fileRef = 473363BD1CBB69A4005C968F /* 点.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +53,8 @@
 		473363AA1CBB6999005C968F /* 粒子发射器UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "粒子发射器UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		473363AE1CBB6999005C968F /* _____UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "_____UITests.m"; sourceTree = "<group>"; };
 		473363B01CBB6999005C968F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		473363BC1CBB69A4005C968F /* 星星.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "星星.png"; sourceTree = "<group>"; };
+		473363BD1CBB69A4005C968F /* 点.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "点.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +105,8 @@
 		473363881CBB6999005C968F /* 粒子发射器 */ = {
 			isa = PBXGroup;
 			children = (
+				473363BC1CBB69A4005C968F /* 星星.png */,
+				473363BD1CBB69A4005C968F /* 点.png */,
 				4733638C1CBB6999005C968F /* AppDelegate.h */,
 				4733638D1CBB6999005C968F /* AppDelegate.m */,
 				4733638F1CBB6999005C968F /* ViewController.h */,
@@ -246,6 +252,8 @@
 				473363991CBB6999005C968F /* LaunchScreen.storyboard in Resources */,
 				473363961CBB6999005C968F /* Assets.xcassets in Resources */,
 				473363941CBB6999005C968F /* Main.storyboard in Resources */,
+				473363BE1CBB69A4005C968F /* 星星.png in Resources */,
+				473363BF1CBB69A4005C968F /* 点.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
